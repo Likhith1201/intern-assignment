@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Environment Variables
+# !! DO NOT UPLOAD THIS FILE TO GITHUB !!
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+logs.txt
+
+# macOS system files
+.DS_Store
